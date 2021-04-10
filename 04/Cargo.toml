@@ -1,0 +1,15 @@
+[package]
+name = "AoC-2018-day-04"
+version = "0.1.0"
+authors = ["Tiago Gomes <tacg@tacgomes.com>"]
+edition = "2018"
+
+[[bin]]
+name = "04"
+path = "main.rs"
+
+[dependencies]
+regex = "1"
+lazy_static = "1.4.0"
+chrono = "0.4"
+counter = "0.5.2"
