@@ -1,0 +1,13 @@
+[package]
+name = "AoC-2018-day-16"
+version = "0.1.0"
+authors = ["Tiago Gomes <tacg@tacgomes.com>"]
+edition = "2018"
+
+[[bin]]
+name = "16"
+path = "main.rs"
+
+[dependencies]
+regex = "1"
+lazy_static = "1.4.0"

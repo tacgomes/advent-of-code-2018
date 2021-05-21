@@ -87,6 +87,14 @@ name = "AoC-2018-day-15"
 version = "0.1.0"
 
 [[package]]
+name = "AoC-2018-day-16"
+version = "0.1.0"
+dependencies = [
+ "lazy_static",
+ "regex",
+]
+
+[[package]]
 name = "aho-corasick"
 version = "0.7.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
